@@ -24,7 +24,7 @@ python-dateutil==2.7.5
 pytz==2020.1
 PyYAML==3.13
 regex==2020.5.14
-requests==2.23.0
+requests==2.31.0
 six==1.15.0
 spacy==2.1.9
 SQLAlchemy==1.2.19
